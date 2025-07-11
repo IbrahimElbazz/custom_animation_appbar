@@ -2,6 +2,12 @@
 
 A Flutter package that provides a custom animated `SliverAppBar`.
 
+
+
+https://github.com/user-attachments/assets/8122e38f-0a8e-443b-a683-105fe7168f49
+
+
+
 ## Features
 
 - Smooth animation between expanded and collapsed states.
