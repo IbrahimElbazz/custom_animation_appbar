@@ -10,9 +10,7 @@ A Flutter package that provides a custom animated `SliverAppBar`.
 
 ## Installation
 
-1.  Create a repository on GitHub.
-2.  Push this package's code to the repository.
-3.  In your Flutter project's `pubspec.yaml`, add the following dependency:
+1.  In your Flutter project's `pubspec.yaml`, add the following dependency:
 
 ```yaml
 dependencies:
